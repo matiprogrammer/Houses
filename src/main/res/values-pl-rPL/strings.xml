@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ustawienia</string>
+    <string name="city">Miasto...</string>
+    <string name="street">Ulica...</string>
+    <string name="button_save">Zapisz</string>
+    <string name="button_add_photo">DODAJ ZDJECIE</string>
+    <string name="postal_code">Kod pocztowy...</string>
+    <string name="action_delete">Usuń</string>
+    <string name="empty_not_saved">Nie zapisano</string>
+    <string name="edit_photo">EDYTUJ ZDJECIE</string>
+    <string name="edit_flat">EDYTUJ</string>
+    <string name="action_add">Dodaj opinię</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_map">Ustaw lokalizację</string>
+    <string name="opinionsCount">Opinie:</string>
+    <string name="no_flats">Brak mieszkań</string>
+    <string name="select_picture">Wybierz zdjęcie</string>
+    <string name="name">Imię</string>
+    <string name="what_is_vote">Jak oceniasz to mieszkanie?</string>
+    <string name="justify">Uzasadnij opinię</string>
+    <string name="add_opinion">Dodaj</string>
+    <string name="search_address">Ulica, miasto lub kod pocztowy</string>
+</resources>
